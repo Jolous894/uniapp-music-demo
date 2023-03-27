@@ -1,1 +1,1 @@
-# uni-app-demo
+# uniapp-music-demo
