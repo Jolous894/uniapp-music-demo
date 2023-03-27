@@ -1,0 +1,32 @@
+
+.icon-shangyiye.data-v-e0b6e5e0, .icon-shouye.data-v-e0b6e5e0{
+	width: 40rpx;
+	height: 40rpx;
+}
+.music-head.data-v-e0b6e5e0 {
+	width: 100%;
+	height: 40px;
+	margin-top: 20px;
+	position: relative;
+	display: flex;
+	align-items: center;
+}
+.music-head text.data-v-e0b6e5e0 {
+	font-size: 20px;
+	color: #fff;
+}
+.music-icon.data-v-e0b6e5e0 {
+	position: absolute;
+	left: 10px;
+	background-color:rgba(0,0,0,0.4);
+	border-radius: 20px;
+}
+.music-head .music-title.data-v-e0b6e5e0 {
+	position: absolute;	
+	right: 50%;
+	-webkit-transform: translateX(50%);
+	        transform: translateX(50%);
+	color: black;
+}
+
+

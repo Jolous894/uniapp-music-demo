@@ -1,0 +1,154 @@
+
+.icon-shangyiye.data-v-e0b6e5e0, .icon-shouye.data-v-e0b6e5e0{
+	width: 40rpx;
+	height: 40rpx;
+}
+.music-head.data-v-e0b6e5e0 {
+	width: 100%;
+	height: 40px;
+	margin-top: 20px;
+	position: relative;
+	display: flex;
+	align-items: center;
+}
+.music-head text.data-v-e0b6e5e0 {
+	font-size: 20px;
+	color: #fff;
+}
+.music-icon.data-v-e0b6e5e0 {
+	position: absolute;
+	left: 10px;
+	background-color:rgba(0,0,0,0.4);
+	border-radius: 20px;
+}
+.music-head .music-title.data-v-e0b6e5e0 {
+	position: absolute;	
+	right: 50%;
+	-webkit-transform: translateX(50%);
+	        transform: translateX(50%);
+	color: black;
+}
+
+
+
+.list-music.data-v-7d5e07c6 {
+	width: 100%;
+	background-color: #fff;
+	border-radius: 40rpx;
+	margin-top: 30rpx;
+	padding: 40rpx 0;
+	line-height: 30rpx;
+}
+.list-music-head.data-v-7d5e07c6{
+}
+.list-music-head text.data-v-7d5e07c6:nth-child(1){
+	margin:0 20rpx;
+	font-size: 50rpx;
+}
+.list-music-head text.data-v-7d5e07c6:nth-child(2){
+		font-size: 30rpx;
+		margin-right: 10rpx;
+}
+.list-music-head text.data-v-7d5e07c6:nth-child(3){
+		font-size: 20rpx;
+		color:#B7B7B7;
+}
+.list-music-item.data-v-7d5e07c6{
+	display: flex;
+	margin: 50rpx 30rpx;
+	align-items: center;
+}
+.list-music-top.data-v-7d5e07c6{
+	flex:1;
+	color:#B7B7B7;
+}
+.list-music-song.data-v-7d5e07c6{
+	flex:10;
+	min-width:0;
+}
+.list-music-item>text.data-v-7d5e07c6 {
+	flex:1;
+	font-size:40rpx;
+	color:#B7B7B7;
+}
+.list-music-song view.data-v-7d5e07c6:nth-child(1){
+	margin-bottom: 10rpx;
+	width: 70vw;
+	white-space:nowrop;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	font-size: 30rpx;
+}
+.list-music-song view.data-v-7d5e07c6:nth-child(2){
+	font-size: 20rpx;
+	color:#B7B7B7;
+	width: 70vw;
+	white-space:nowrop;
+	overflow:hidden;
+	text-overflow: ellipsis;
+}
+.list-music-song ._img.data-v-7d5e07c6 {
+	width: 40rpx;
+	height: 24rpx;
+	margin-right: 5rpx;
+}
+.list-share.data-v-7d5e07c6 {
+	width: 330rpx;
+	height: 74rpx;
+	line-height: 74rpx;
+	border-radius: 88rpx;
+	font-size: 28rpx;
+	color: white;
+	background-color:rgba(0,0,0,0.4);
+	text-align: center;
+}
+.list-share text.data-v-7d5e07c6 {
+	margin-right: 16rpx;
+}
+.list-head.data-v-7d5e07c6{
+	display: flex;
+	margin: 30rpx;
+}
+.list-head-img.data-v-7d5e07c6{
+	margin-right:40rpx  ;
+	width: 264rpx;
+	height: 264rpx;
+	border-radius: 30rpx;
+	overflow: hidden;
+	position: relative;
+	flex-shrink: 0;
+}
+.list-head-img ._img.data-v-7d5e07c6{
+	width: 100%;
+	height: 100%;
+}
+.list-head-img text.data-v-7d5e07c6{
+	position: absolute;
+	right: 10rpx;
+	top: 10rpx;
+	color: #fff;
+}
+.list-head-text.data-v-7d5e07c6{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.list-head-text view.data-v-7d5e07c6:nth-child(1){	
+	font-size: 40rpx;
+}
+.list-head-text view.data-v-7d5e07c6:nth-child(2){
+	display: flex;	
+	align-items: center;
+}
+.list-head-text ._img.data-v-7d5e07c6{
+	width: 60rpx;
+	height: 60rpx;
+	margin-right: 20rpx;
+	border-radius: 50%;
+}
+.list-head-text .text.data-v-7d5e07c6{
+}
+.list-head-text view.data-v-7d5e07c6:nth-child(3){
+	font-size: 20rpx;
+}
+
